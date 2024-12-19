@@ -1,0 +1,17 @@
+[1mdiff --git a/newfile.txt b/newfile.txt[m
+[1mindex 7789d87..b7f54ef 100644[m
+[1m--- a/newfile.txt[m
+[1m+++ b/newfile.txt[m
+[36m@@ -1,10 +1 @@[m
+[31m-hellooooo[m
+[31m-[m
+[31m-[m
+[31m-hello working fine[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-yes[m
+[31m-[m
+[32m+[m[32mhellooooo[m
+\ No newline at end of file[m
